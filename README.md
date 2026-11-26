@@ -16,7 +16,7 @@ Implementación de un modelo predictivo para el dataset **Medical Cost Personal 
 | Carpeta | Contenido |
 |---|---|
 | [`01_Evaluacion3/`](01_Evaluacion3/) | Informe de la Evaluación 3 (PDF) |
-| [`03_Presentaciones/`](03_Presentaciones/) | Presentación final del Grupo 2 (PDF) |
+| [`03_Presentaciones/`](03_Presentaciones/) | Presentación EP4 del Grupo 2 (PDF) |
 | [`04_Implementacion/`](04_Implementacion/) | Código Python, notebook, dataset y evidencias generadas |
 | [`05_Gestion/`](05_Gestion/) | Planilla de seguimiento y registros de gestión (CSV) |
 
