@@ -1,0 +1,9 @@
+﻿ID,Tarea del escenario,Plan h,Ejecutado simulado h,Estado simulado
+T5.1,Métricas de desempeño,4,4,Completada
+T5.2,Auditoría de equidad,6,6,Completada con observación
+T5.3,Informe de evaluación,4,5,En progreso en el escenario
+T5.4,Puerta G3,2,0,Pendiente en el escenario
+U1,Auditoría por edad adicional,0,3,Completada en el escenario
+U2,Análisis de error relativo,0,5,Completada en el escenario
+U3,Reconciliación del seguimiento,0,2,Completada en el escenario
+U4,Solicitud de diferir nube,0,2,En revisión en el escenario

@@ -1,0 +1,9 @@
+﻿ID,Objeto,Versión consolidada,Motivo y límite
+D01,Alcance,Prototipo local con entrega reproducible,Reemplaza la hipótesis de nube en la iteración académica; aceptación operativa pendiente
+D02,Catálogo,RNF1 legal; RNF2 seguridad; RNF3 rendimiento; RNF4 agregado; RNF5 documentación; RNF6 costos,Conserva los identificadores de la presentación previa; corrige la renumeración del examen
+D03,Riesgos,R1 a R9 conservados y R10 sobreajuste añadido,Escala P e I de 1 a 3 en todos los entregables
+D04,Moneda,charges expresado en u.m.,El CSV no acredita moneda; los presupuestos se expresan por separado en CLP
+D05,Presupuesto,A local 1.966.500 CLP; B nube 3.519.000 CLP; año 1,Estimaciones supuestas de implementación y operación; sin desembolso ni beneficio medido
+D06,Seguimiento,Excel local como registro vigente del paquete,Trello y GitHub externos no se declaran actualizados
+D07,Validación,"Mínimo de 20 filas, entradas válidas, pipeline y candidato separados",Pruebas ejecutadas y evidencia exportada
+D08,Normativa,Ley 21.719 entra en vigencia el 15 de octubre de 2027,Ley 21.855 publicada el 23 de noviembre de 2026

@@ -1,0 +1,16 @@
+{
+  "grupo_habitual": {
+    "n_afiliados": 100,
+    "costo_proyectado_um": 1238726.143861058,
+    "umbral_um": 1300000.0,
+    "alerta": false,
+    "uso_porcentual_umbral": 95.2866264508506
+  },
+  "grupo_simulado": {
+    "n_afiliados": 100,
+    "costo_proyectado_um": 2286147.8574776268,
+    "umbral_um": 1300000.0,
+    "alerta": true,
+    "uso_porcentual_umbral": 175.85752749827898
+  }
+}

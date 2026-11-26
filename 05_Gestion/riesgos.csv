@@ -1,0 +1,11 @@
+﻿ID,Clase,Riesgo,Probabilidad 1 a 3,Impacto 1 a 3,Disparador,Mitigación,Rol propuesto,Contingencia
+R1,Ético,Errores desiguales por subgrupo,2,3,RF4 >15 %,"Auditar MAE, error relativo e intervalos; ampliar datos",Análisis,G3 abierta; uso académico
+R2,Legal,Tratamiento de datos sin habilitación o seguridad,2,3,Ingreso de datos reales sin revisión,Verificar finalidad y base; controles de acceso y cifrado,Coordinación e Ingeniería,Suspender carga no autorizada
+R3,Ético,Uso individual o discriminatorio del modelo,2,3,Solicitud de primas o exclusiones,Finalidad agregada y revisión humana; restricciones de acceso,Coordinación,Bloquear uso y corregir comunicación
+R4,Técnico,Muestra y procedencia no representativas,3,3,"Población, moneda o período sin acreditar",Solicitar procedencia y validar muestra externa,Análisis,Mantener alcance académico
+R5,Técnico,Subestimación de costos extremos,2,2,Sesgo negativo en decil superior,Reportar cola y comparar pérdida asimétrica en muestra nueva,Análisis,Revisión experta del presupuesto
+R6,Financiero,Sobrecosto de infraestructura o agentes,1,2,Consumo sobre presupuesto,Operación local; límites y alertas si se habilita nube,Coordinación,Suspender servicios prescindibles
+R7,Financiero,Beneficio económico supuesto no materializado,2,2,Ahorro medido inferior al equilibrio,Medir línea base y tiempo liberado; revisar continuidad,Coordinación,Reestimar o detener expansión
+R8,Gestión,Indisponibilidad y seguimiento desactualizado,2,2,Tarea sin responsable o evidencia,Responsable alterno y actualización al cierre,Coordinación,Reasignar y registrar cambio
+R9,Técnico,Deriva de población,2,2,"p ajustado Holm <0,01",Referencia de entrenamiento; revisión de magnitud y error futuro,Ingeniería,Revisar; sin promoción automática
+R10,Técnico,Sobreajuste o validación reutilizada,2,3,Deterioro en muestra independiente,CV para selección; reservar datos externos para siguiente decisión,Análisis,Volver al modelo de referencia

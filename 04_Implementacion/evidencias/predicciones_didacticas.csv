@@ -1,0 +1,6 @@
+﻿perfil,age,sex,bmi,children,smoker,region,prediccion_um,rango80_inferior,rango80_superior
+Adulto joven,25,female,22.0,0,no,southwest,4340.50897854095,1755.4356554863198,7010.620984441328
+Adulto con IMC alto,40,male,33.5,2,no,southeast,7537.548597872469,4952.475274817839,10207.660603772847
+Fumador de mediana edad,45,male,28.0,1,yes,northwest,25667.44904919893,23082.375726144302,28337.561055099308
+Fumador con IMC alto,35,female,35.0,0,yes,northeast,40053.05760014327,37467.98427708864,42723.16960604365
+Adulto mayor no fumador,60,female,27.0,0,no,northeast,13829.2382814005,11244.16495834587,16499.350287300877

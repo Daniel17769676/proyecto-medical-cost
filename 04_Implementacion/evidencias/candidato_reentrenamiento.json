@@ -1,0 +1,18 @@
+{
+  "semilla": 42,
+  "version": "2.0-academica",
+  "registros": 1337,
+  "r2_prueba": 0.9028280006344899,
+  "mae_prueba": 2458.438137922895,
+  "meta_rf1": 0.8,
+  "cumple_rf1": true,
+  "meta_aceptacion": 1.0,
+  "cumple_meta_aceptacion": false,
+  "promocion_automatica": false,
+  "parametros": {
+    "modelo__max_depth": 4,
+    "modelo__min_samples_leaf": 10,
+    "modelo__n_estimators": 200
+  },
+  "fecha_utc": "2026-11-25T03:18:10.805708+00:00"
+}

@@ -1,0 +1,10 @@
+﻿ID,Fase,Tarea,Horas plan base,Estado al corte,Horas reales medidas,Rol propuesto,Evidencia relativa,Fecha del corte,Observación
+T01,Negocio,Consolidar caso y alcance,12,Completada,,Coordinación,01_Evaluacion3/Informe_Evaluacion3.pdf,2026-11-25,Aceptación de contraparte pendiente
+T02,Datos,Depurar y explorar datos,24,Completada,,Análisis,04_Implementacion/evidencias/metricas.json,2026-11-25,1 duplicado eliminado; 1.337 filas
+T03,Preparación,Validar entradas y persistir preprocesamiento,24,Completada parcial,,Ingeniería,04_Implementacion/evidencias/pipeline_medical_cost.joblib,2026-11-25,Accesos y cifrado operativos pendientes
+T04,Modelado,Comparar y ajustar modelos,28,Completada,,Análisis,04_Implementacion/evidencias/comparacion_modelos.csv,2026-11-25,Selección con CV; prueba observada
+T05,Evaluación,Métricas y auditoría de equidad,16,Completada con observación,,Análisis,04_Implementacion/evidencias/auditoria_subgrupos.csv,2026-11-25,RF4 no satisface el 15 %
+T06,Entrega,Automatización y documentación,20,Completada parcial,,Ingeniería,04_Implementacion/evidencias/pruebas_funcionales.csv,2026-11-25,Prototipo académico; operación diferida
+C01,Corrección,Consolidar seguimiento local,,Completada,,Coordinación,05_Gestion/Seguimiento_MedicalCost.xlsx,2026-11-25,Trello externo permanece como antecedente desactualizado
+C02,Corrección,Alinear informes y presentaciones,,Completada,,Comunicación,01_Evaluacion3/Informe_Evaluacion3.pdf,2026-11-25,Métricas y catálogo comunes
+C03,Publicación,Publicar versión final en repositorio,,Pendiente,,Ingeniería,04_Implementacion/Instrucciones_de_ejecucion.txt,2026-11-25,Paquete local preparado; publicación externa no acreditada

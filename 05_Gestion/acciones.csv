@@ -1,0 +1,8 @@
+﻿ID,Desviación,Acción,Rol propuesto,Estado,Fecha o condición,Evidencia
+A1,Trello desactualizado,Consolidar seguimiento local con evidencia; sincronizar Trello al publicar,Coordinación,Aplicada local; sincronización pendiente,2026-11-25,"Seguimiento_MedicalCost.xlsx, Tareas"
+A2,RF4 excede el límite,Añadir intervalos y conservar incumplimiento; validar externamente,Análisis,Auditoría aplicada; mitigación abierta,Antes de G3,04_Implementacion/evidencias/auditoria_subgrupos.csv
+A3,Horas reales históricas ausentes,Campo editable de horas; registrar desde la siguiente sesión,Coordinación,Campo creado; carga pendiente,Próxima sesión,"Seguimiento_MedicalCost.xlsx, Tareas"
+A4,Subestimación de costos altos,Comparar función de pérdida y reservas con protocolo nuevo,Análisis,Propuesta,Antes de piloto,04_Implementacion/evidencias/metricas.json
+A5,Cambio de nube a prototipo local,"Documentar alcance, presupuesto y restricciones; solicitar aceptación",Coordinación,Documentado; aceptación pendiente,Antes de G4,01_Evaluacion3/Informe_Evaluacion3.pdf; alcance y decisiones
+A6,Validaciones y persistencia insuficientes,Validar esquema y umbral; persistir pipeline y probar recarga,Ingeniería,Aplicada,2026-11-25,04_Implementacion/evidencias/pruebas_funcionales.csv
+A7,Versiones contradictorias,Catálogo común y conciliación de costos; sustituir presentaciones,Comunicación,Aplicada,2026-11-25,Informes y presentaciones finales

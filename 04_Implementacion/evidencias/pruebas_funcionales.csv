@@ -1,0 +1,19 @@
+﻿prueba,resultado,detalle
+Alerta negativa en grupo habitual,OK,Criterio comprobado
+Alerta positiva en grupo simulado,OK,Criterio comprobado
+Rechazo de grupo de 19 filas,OK,Criterio comprobado
+Rechazo de umbral cero,OK,Criterio comprobado
+Rechazo de umbral negativo,OK,Criterio comprobado
+Rechazo de edad negativa,OK,Criterio comprobado
+Rechazo de IMC fuera de rango,OK,Criterio comprobado
+Rechazo de hijos fraccionarios,OK,Criterio comprobado
+Rechazo de categoria desconocida,OK,Criterio comprobado
+Rechazo de columna faltante,OK,Criterio comprobado
+Rechazo de valores no finitos,OK,Criterio comprobado
+Persistencia de pipeline equivalente,OK,Criterio comprobado
+Pipeline rechaza categorias desconocidas,OK,Criterio comprobado
+Deriva simulada en edad y tabaquismo,OK,Criterio comprobado
+Deriva rechaza referencia invalida,OK,Criterio comprobado
+Candidato sin promocion automatica,OK,Criterio comprobado
+Modelo validado conservado,OK,Criterio comprobado
+Candidato existente no se sobrescribe,OK,Criterio comprobado

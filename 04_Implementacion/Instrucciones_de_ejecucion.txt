@@ -1,0 +1,16 @@
+IMPLEMENTACIÓN MEDICAL COST
+Entorno verificado: Python 3.10.11.
+Desde esta carpeta:
+  python -m pip install -r requirements.txt
+  python ejecutar_validacion.py
+  python verificar_evidencias.py
+
+El notebook incluye la ejecución y las figuras. El script regenera las
+evidencias a partir de insurance.csv. Las 18 pruebas funcionales se registran
+en evidencias/pruebas_funcionales.csv. Pipeline y candidato se entregan por
+separado. El candidato usa una meta de prueba 1,0 para verificar el rechazo
+de promoción; RF1 conserva su meta 0,80. No hay promoción automática.
+
+charges se expresa en u.m. sin moneda acreditada. Los resultados son internos;
+RF4 no cumple en región, tabaquismo e IMC. La planilla de seguimiento se
+encuentra en ../05_Gestion/Seguimiento_MedicalCost.xlsx.

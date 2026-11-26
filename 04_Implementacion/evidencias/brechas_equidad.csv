@@ -1,0 +1,6 @@
+﻿variable,brecha_mae_pct,limite_pct,cumple
+sex,11.675405787970861,15,True
+region,34.284085005126066,15,False
+smoker,22.839238342099147,15,False
+rango_imc,49.900106392969846,15,False
+rango_edad,6.987643934886547,15,True

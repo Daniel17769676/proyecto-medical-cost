@@ -1,0 +1,4 @@
+# Keep data and evidence files byte-identical (verificar_evidencias.py checks the dataset SHA-256)
+*.csv -text
+*.json -text
+*.ipynb -text

@@ -1,0 +1,14 @@
+﻿ID,Prioridad,Descripción,Criterio de aceptación,Estado,Evidencia relativa a la carpeta final
+RF1,Must,Estimar charges,"R² de prueba ≥0,80; informar MAE y RMSE",Cumplido interno,04_Implementacion/evidencias/metricas.json
+RF2,Should,Alertar gasto agregado,Umbral finito positivo; grupo ≥20; casos con y sin alerta,Prototipo probado,04_Implementacion/evidencias/pruebas_funcionales.csv
+RF3,Should,Visualizar factores,Gráfico de importancia y límites causales; panel interactivo diferido,Parcial,04_Implementacion/evidencias/figuras/importancia.png
+RF4,Must,Auditar error por subgrupo,(MAE máximo − mínimo)/mínimo ≤15 % por variable,No cumple en 3 variables,04_Implementacion/evidencias/brechas_equidad.csv
+RF5,Could,Reentrenar con trazabilidad,Pipeline candidato separado; métricas y semilla; sin promoción automática,Prototipo probado,04_Implementacion/evidencias/candidato_reentrenamiento.json
+RNF1,Must,Cumplimiento legal,Finalidad y habilitación revisadas antes de datos reales,Pendiente para operación,01_Evaluacion3/Informe_Evaluacion3.pdf; referencias y límites de uso
+RNF2,Must,Seguridad y acceso,"Accesos por rol, cifrado, respaldo y restauración probados",Pendiente para operación,"05_Gestion/Seguimiento_MedicalCost.xlsx, Acciones"
+RNF3,Could,Rendimiento,Medir tiempo por lote en el entorno acordado; umbral por aceptar,Medición de referencia,04_Implementacion/evidencias/metricas.json
+RNF4,Must,Uso presupuestario agregado,Alerta ≥20; finalidad acordada; impedir usos adversos en todos los accesos,Parcial,04_Implementacion/evidencias/pruebas_funcionales.csv
+RNF5,Should,Documentación y mantenibilidad,"Código, dependencias, instrucciones y resultados reproducibles",Cumplido académico,04_Implementacion/Instrucciones_de_ejecucion.txt
+RNF6,Must si se activa nube,Controlar gasto de nube,"Presupuesto, destinatario y prueba de alerta de facturación",Diferido con la nube,"05_Gestion/Seguimiento_MedicalCost.xlsx, Acciones"
+RD1,Must,Calidad de datos,Esquema válido; 0 nulos; duplicados documentados,Cumplido,04_Implementacion/evidencias/metricas.json
+RD2,Must,Privacidad de datos,"Minimización, identificabilidad, retención y finalidad revisadas",Pendiente para operación,01_Evaluacion3/Informe_Evaluacion3.pdf; referencias y límites de uso
